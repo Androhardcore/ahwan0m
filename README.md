@@ -1,5 +1,5 @@
 # Auto-Installer-VPS
-Hallo pengunjung blog www.androhardcore.id, untuk tutorial kali ini saya akan membahas script auto installer VPS, ada beberapa services yang otomatis di instal antara lain:<br
+Hallo pengunjung blog www.ahwan0m.site, untuk tutorial kali ini saya akan membahas script auto installer VPS, ada beberapa services yang otomatis di instal antara lain:<br
 # List-Service
 
 OpenVPN  : TCP 1194 <br>
@@ -21,4 +21,4 @@ Selengkapnya lihat di LOG setelah instalasi <br>
 <br>
 
 <br>
-@GraciesBlaugrana 1nG-9h0st | www.androhardcore.id | fb.com/groups/androhardcore1
+@GraciesBlaugrana 1nG-9h0st Team | www.ahwan0m.site | fb.com/groups/androhardcore1
